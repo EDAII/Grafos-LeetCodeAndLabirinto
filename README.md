@@ -1,4 +1,4 @@
-# Grafos-LeetCode And HackerRank
+# Grafos - LeetCode And HackerRank
 
 **Conteúdo da Disciplina**: Grafos
 
@@ -22,24 +22,16 @@ Este projeto consiste na resolução de questões da plataforma HackerRank e Lee
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/" target="_blank">1235. Maximum Profit in Job Scheduling</td>
+            <td><a href="https://leetcode.com/problems/word-ladder-ii/description/" target="_blank">126. Word Ladder II</td>
             <td>Difícil 01</td>
         </tr>
         <tr>
-            <td><a href="https://leetcode.com/problems/profitable-schemes/description/" target="_blank">879. Profitable Schemes</td>
+            <td><a href="https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/" target="_blank">2127. Maximum Employees to Be Invited to a Meeting</td>
             <td>Difícil 02</td>
         </tr>
          <tr>
-            <td><a href="https://leetcode.com/problems/trapping-rain-water/submissions/1693139970/?envType=problem-list-v2&envId=dynamic-programming" target="_blank">42. Trapping Rain Water</td>
+            <td><a href="https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/" target="_blank">329. Longest Increasing Path in a Matrix</td>
             <td>Difícil 03</td>
-        </tr>
-         <tr>
-            <td><a href="https://leetcode.com/problems/distinct-subsequences/description/?envType=problem-list-v2&envId=dynamic-programming" target="_blank">115. Distinct Subsequences</td>
-            <td>Difícil 04</td>
-        </tr>
-         <tr>
-            <td><a href="https://leetcode.com/problems/binary-tree-maximum-path-sum/description/?envType=problem-list-v2&envId=dynamic-programming" target="_blank">124. Binary Tree Maximum Path Sum</td>
-            <td>Difícil 05</td>
         </tr>
     </tbody>
 </table>
@@ -52,7 +44,6 @@ Este projeto consiste na resolução de questões da plataforma HackerRank e Lee
 ## Contribuidores
 
 <center>
-
 </head>
 <body>
 
@@ -96,34 +87,25 @@ Entrar na plataforma [LeetCode](https://leetcode.com/problem-list/divide-and-con
 ## Screenshots do HackerRank & LeetCode
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Resultados questão difícil LeetCode 1235</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Resultados questão difícil LeetCode 126</b></p></font>
 </div>
+
 
 <div align="center">
 <img src="Assets/QuestaoDificil1_case1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
-
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Resultados questão difícil LeetCode 1235</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Resultados questão difícil LeetCode 126</b></p></font>
 </div>
+
 
 <div align="center">
 <img src="Assets/QuestaoDificil1_case2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
-
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Resultados questão difícil LeetCode 1235</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/QuestaoDificil1_case3.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
-
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão difícil LeetCode 879</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Resultados questão difícil LeetCode 2127</b></p></font>
 </div>
 
 <div align="center">
@@ -132,7 +114,7 @@ Entrar na plataforma [LeetCode](https://leetcode.com/problem-list/divide-and-con
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão difícil LeetCode 879</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão difícil LeetCode 2127</b></p></font>
 </div>
 
 <div align="center">
@@ -141,31 +123,41 @@ Entrar na plataforma [LeetCode](https://leetcode.com/problem-list/divide-and-con
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 6: Resultados questão difícil LeetCode 42. Trapping Rain Water</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão difícil LeetCode 2127</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/agua.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
-
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Resultados questão difícil LeetCode 115. Distinct Subsequences</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/distinct.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil2_case3.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 8: Resultados questão difícil LeetCode 124. Binary Tree Maximum Path Sum</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 6: Resultados questão difícil LeetCode 329</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/binary.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil3_case1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Resultados questão difícil LeetCode 329</b></p></font>
+</div>
+
+<div align="center">
+<img src="Assets/QuestaoDificil3_case2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 8: Resultados questão difícil LeetCode 329</b></p></font>
+</div>
+
+<div align="center">
+<img src="Assets/QuestaoDificil3_case3.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+
 
 ## Vídeo
 
@@ -178,3 +170,4 @@ Explicamos todos os códigos que fizemos na plataforma HackerRank e LeetCode:
   <a href="https://youtu.be/TFeyVYnvyy4" target="_blank">
     <img src="https://img.youtube.com/vi/TFeyVYnvyy4/0.jpg" alt="Vídeo 01" width="480">
   </a>
+

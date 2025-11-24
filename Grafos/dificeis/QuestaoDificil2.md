@@ -1,6 +1,6 @@
-## 879. Profitable Schemes
+## 2127. Maximum Employees to Be Invited to a Meeting
 
-https://leetcode.com/problems/profitable-schemes/description/
+https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/
 
 # Nível da questão: <span style="color: red;">Difícil</span>
 
@@ -9,3 +9,5 @@ https://leetcode.com/problems/profitable-schemes/description/
 ![](/Assets/QuestaoDificil2_case1.png)
 
 ![](/Assets/QuestaoDificil2_case2.png)
+
+![](/Assets/QuestaoDificil2_case3.png)

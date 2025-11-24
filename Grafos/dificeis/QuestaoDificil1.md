@@ -1,6 +1,6 @@
-## 1235. Maximum Profit in Job Scheduling
+## 126. Word Ladder II
 
-https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/
+https://leetcode.com/problems/word-ladder-ii/description/
 
 # Nível da questão: <span style="color: red;">Difícil</span>
 
@@ -9,5 +9,3 @@ https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/
 ![](/Assets/QuestaoDificil1_case1.png)
 
 ![](/Assets/QuestaoDificil1_case2.png)
-
-![](/Assets/QuestaoDificil1_case3.png)
